@@ -1,0 +1,5 @@
+WIFI_SSID = ''
+WIFI_PASSWORD = ''
+
+MQTT_USER = ''
+MQTT_PASSWORD = ''
